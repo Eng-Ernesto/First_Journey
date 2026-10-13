@@ -1,0 +1,16 @@
+{
+    "source": "C:\\Ernesto\\unity\\assets\\Characters\\HeroAJ\\Animations\\AJ_PetDog.fbx",
+    "asset": "Assets/_FirstJourney/Art/Characters/HeroAJ/Animations/AJ_PetDog.fbx",
+    "sha256": "5DB583B4DFB1E0EC917FF4D43164A99C7A475DA96C86D1E494CB55C2FEEBEEA8",
+    "rig": "Generic",
+    "bytes": 2150896,
+    "meshes": 0,
+    "valid": true,
+    "clipCount": 1,
+    "firstClipCurveBindings": 384,
+    "firstClipName": "mixamo.com",
+    "firstClipSeconds": 11.116666793823243,
+    "firstClipFrameRate": 60.0,
+    "firstClipHumanoid": false,
+    "firstClipLoop": false
+}

@@ -1,0 +1,16 @@
+{
+    "source": "C:\\Ernesto\\unity\\assets\\Characters\\HeroAJ\\Animations\\AJ_KneelIdle.fbx",
+    "asset": "Assets/_FirstJourney/Art/Characters/HeroAJ/Animations/AJ_KneelIdle.fbx",
+    "sha256": "194B19BAD1C475A2808969109D5388F8590AB34C96FAC1054397B48B0F86233D",
+    "rig": "Generic",
+    "bytes": 964656,
+    "meshes": 0,
+    "valid": true,
+    "clipCount": 1,
+    "firstClipCurveBindings": 384,
+    "firstClipName": "mixamo.com",
+    "firstClipSeconds": 4.6666669845581059,
+    "firstClipFrameRate": 60.0,
+    "firstClipHumanoid": false,
+    "firstClipLoop": false
+}

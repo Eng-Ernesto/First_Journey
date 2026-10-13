@@ -1,0 +1,13 @@
+{
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+  "prefab": "Assets/_FirstJourney/Prefabs/HeroAJ.prefab",
+  "source": "Assets/_FirstJourney/Art/Characters/HeroAJ/Source/AJ_Model.fbx",
+  "character": "AJ",
+  "height": 1.72,
+  "scale": 0.9329804,
+  "skinnedMeshes": 4,
+  "avatarValid": true,
+  "controller": "Assets/_FirstJourney/Animation/AJ_Hero.controller",
+  "backup": "Assets/_FirstJourney/Scenes/Versions/FirstJourney_LuaBase_AntesHeroiAJ.unity",
+  "baseRenderers": 584
+}

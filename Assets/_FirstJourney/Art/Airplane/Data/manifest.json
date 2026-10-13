@@ -1,0 +1,378 @@
+{
+  "source": "autronauta.mixar",
+  "source_scene": "Cria O Avi O Do Pequeno",
+  "excluded": [
+    "astronauta_lowpoly_*",
+    "Cube",
+    "cameras",
+    "lights"
+  ],
+  "objects": [
+    {
+      "name": "aviao_aviador_Fuselagem",
+      "materials": [
+        "aviao_aviador_Dourado",
+        ""
+      ]
+    },
+    {
+      "name": "aviao_aviador_Asa_Esquerda",
+      "materials": [
+        "aviao_aviador_Asa_Creme"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Asa_Direita",
+      "materials": [
+        "aviao_aviador_Asa_Creme"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Estabilizador_Esquerdo",
+      "materials": [
+        "aviao_aviador_Asa_Creme"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Estabilizador_Direito",
+      "materials": [
+        "aviao_aviador_Asa_Creme"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Deriva_Leme",
+      "materials": [
+        "aviao_aviador_Dourado"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Capo_Motor",
+      "materials": [
+        "aviao_aviador_Dourado"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Anel_Frontal",
+      "materials": [
+        "aviao_aviador_Latao"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Cinta_Capo",
+      "materials": [
+        "aviao_aviador_Latao"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Interior_Cockpit",
+      "materials": [
+        "aviao_aviador_Interior"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Assento_Couro",
+      "materials": [
+        "aviao_aviador_Couro"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Encosto_Couro",
+      "materials": [
+        "aviao_aviador_Couro"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Manche",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Punho_Manche",
+      "materials": [
+        "aviao_aviador_Couro"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Painel_Instrumentos",
+      "materials": [
+        "aviao_aviador_Madeira"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Mostrador_0",
+      "materials": [
+        "aviao_aviador_Latao"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Vidro_Mostrador_0",
+      "materials": [
+        "aviao_aviador_Interior"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Mostrador_1",
+      "materials": [
+        "aviao_aviador_Latao"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Vidro_Mostrador_1",
+      "materials": [
+        "aviao_aviador_Interior"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Para_Brisas",
+      "materials": [
+        "aviao_aviador_Vidro_Azul"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Eixo_Principal",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Trem_Frontal_Esquerdo",
+      "materials": [
+        "aviao_aviador_Dourado"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Trem_Tras_Esquerdo",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Pneu_Esquerdo",
+      "materials": [
+        "aviao_aviador_Borracha"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Cubo_Roda_Esquerdo",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Tampa_Roda_Esquerdo",
+      "materials": [
+        "aviao_aviador_Latao"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Porca_Roda_Esquerdo",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Trem_Frontal_Direito",
+      "materials": [
+        "aviao_aviador_Dourado"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Trem_Tras_Direito",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Pneu_Direito",
+      "materials": [
+        "aviao_aviador_Borracha"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Cubo_Roda_Direito",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Tampa_Roda_Direito",
+      "materials": [
+        "aviao_aviador_Latao"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Porca_Roda_Direito",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Sapata_Patim",
+      "materials": [
+        "aviao_aviador_Couro"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Eixo_Helice",
+      "materials": [
+        "aviao_aviador_Metal"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Helice_Inferior",
+      "materials": [
+        "aviao_aviador_Madeira"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Helice_Superior",
+      "materials": [
+        "aviao_aviador_Madeira"
+      ]
+    },
+    {
+      "name": "aviao_aviador_Cubo_Helice",
+      "materials": [
+        "aviao_aviador_Latao"
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "aviao_aviador_Dourado",
+      "base_color_linear": [
+        0.8600000143051147,
+        0.47999998927116394,
+        0.08500000089406967,
+        1.0
+      ],
+      "roughness": 0.3400000035762787,
+      "metallic": 0.11999999731779099,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Asa_Creme",
+      "base_color_linear": [
+        0.9300000071525574,
+        0.7400000095367432,
+        0.36000001430511475,
+        1.0
+      ],
+      "roughness": 0.5600000023841858,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Latao",
+      "base_color_linear": [
+        0.550000011920929,
+        0.3199999928474426,
+        0.10000000149011612,
+        1.0
+      ],
+      "roughness": 0.2800000011920929,
+      "metallic": 0.75,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Interior",
+      "base_color_linear": [
+        0.04399999976158142,
+        0.024000000208616257,
+        0.014000000432133675,
+        1.0
+      ],
+      "roughness": 0.8799999952316284,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Couro",
+      "base_color_linear": [
+        0.1899999976158142,
+        0.06499999761581421,
+        0.02500000037252903,
+        1.0
+      ],
+      "roughness": 0.5400000214576721,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Metal",
+      "base_color_linear": [
+        0.25,
+        0.2800000011920929,
+        0.28999999165534973,
+        1.0
+      ],
+      "roughness": 0.3199999928474426,
+      "metallic": 0.800000011920929,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Madeira",
+      "base_color_linear": [
+        0.28999999165534973,
+        0.06499999761581421,
+        0.027000000700354576,
+        1.0
+      ],
+      "roughness": 0.3799999952316284,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Vidro_Azul",
+      "base_color_linear": [
+        0.3199999928474426,
+        0.6499999761581421,
+        0.7099999785423279,
+        1.0
+      ],
+      "roughness": 0.1599999964237213,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "transmission": 0.3499999940395355,
+      "base_texture": null,
+      "procedural_color": false
+    },
+    {
+      "name": "aviao_aviador_Borracha",
+      "base_color_linear": [
+        0.02500000037252903,
+        0.02199999988079071,
+        0.017999999225139618,
+        1.0
+      ],
+      "roughness": 0.8199999928474426,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "base_texture": null,
+      "procedural_color": false
+    }
+  ]
+}

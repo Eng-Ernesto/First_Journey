@@ -1,0 +1,23 @@
+{
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+  "islandPosition": "(24.00, 0.00, 4.50)",
+  "terrainBounds": "Center: (23.93, -0.32, 4.46), Extents: (8.89, 0.54, 7.12)",
+  "planeBounds": "Center: (24.40, 1.56, 4.50), Extents: (4.00, 1.32, 3.05)",
+  "planeParts": 38,
+  "personParts": 0,
+  "missingMaterials": 0,
+  "planeMaterialIssues": [],
+  "islandRenderers": 104,
+  "colliders": 8,
+  "terrainSupportChecks": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "planeGroundHeight": 0.246999979,
+  "trees": 2,
+  "bridgeBuilt": true,
+  "baseRenderers": 584
+}

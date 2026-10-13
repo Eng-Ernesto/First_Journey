@@ -1,0 +1,16 @@
+{
+    "source": "C:\\Ernesto\\unity\\assets\\Characters\\HeroAJ\\Animations\\AJ_Run.fbx",
+    "asset": "Assets/_FirstJourney/Art/Characters/HeroAJ/Animations/AJ_Run.fbx",
+    "sha256": "0C290A74150862D91B211219B7D43BBC4FF48ABB5995C8265187246130BF4E27",
+    "rig": "Generic",
+    "bytes": 462880,
+    "meshes": 0,
+    "valid": true,
+    "clipCount": 1,
+    "firstClipCurveBindings": 384,
+    "firstClipName": "mixamo.com",
+    "firstClipSeconds": 0.7166666984558106,
+    "firstClipFrameRate": 60.0,
+    "firstClipHumanoid": false,
+    "firstClipLoop": false
+}

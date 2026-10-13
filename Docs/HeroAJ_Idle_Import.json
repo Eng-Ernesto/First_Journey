@@ -1,0 +1,16 @@
+{
+    "source": "C:\\Ernesto\\unity\\assets\\Characters\\HeroAJ\\Animations\\AJ_Idle.fbx",
+    "asset": "Assets/_FirstJourney/Art/Characters/HeroAJ/Animations/AJ_Idle.fbx",
+    "sha256": "5DBD1AC4727B4272D18B27289AA6DE3BFF5ADDFCC49FA4FA1B98D330C85D92C6",
+    "rig": "Generic",
+    "bytes": 1954528,
+    "meshes": 0,
+    "valid": true,
+    "clipCount": 1,
+    "firstClipCurveBindings": 384,
+    "firstClipName": "mixamo.com",
+    "firstClipSeconds": 9.916666984558106,
+    "firstClipFrameRate": 60.0,
+    "firstClipHumanoid": false,
+    "firstClipLoop": false
+}

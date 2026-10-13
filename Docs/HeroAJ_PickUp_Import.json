@@ -1,0 +1,16 @@
+{
+    "source": "C:\\Ernesto\\unity\\assets\\Characters\\HeroAJ\\Animations\\AJ_PickUp.fbx",
+    "asset": "Assets/_FirstJourney/Art/Characters/HeroAJ/Animations/AJ_PickUp.fbx",
+    "sha256": "448D2F00A45A6322262A98E4DB4CBA7B482336EA16BA303844CA36B80D117FB3",
+    "rig": "Generic",
+    "bytes": 837776,
+    "meshes": 0,
+    "valid": true,
+    "clipCount": 1,
+    "firstClipCurveBindings": 384,
+    "firstClipName": "mixamo.com",
+    "firstClipSeconds": 3.4166667461395265,
+    "firstClipFrameRate": 60.0,
+    "firstClipHumanoid": false,
+    "firstClipLoop": false
+}

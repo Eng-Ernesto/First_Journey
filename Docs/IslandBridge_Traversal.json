@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "controllerHeight": 1.72,
+  "controllerRadius": 0.28,
+  "roundTrip": true,
+  "steps": 906,
+  "groundContacts": 905,
+  "minFootHeight": 0.23906821,
+  "sideProtectionDisplacements": [
+    0.7300005,
+    0.73
+  ]
+}

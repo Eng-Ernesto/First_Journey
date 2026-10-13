@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+  "length": 8.65,
+  "deckWidth": 2.38,
+  "clearWidth": 2.06,
+  "boards": 26,
+  "renderers": 130,
+  "colliders": 11,
+  "walkwaySamples": 183,
+  "walkwayFailures": [],
+  "approachObstructions": [],
+  "missingMaterials": 0,
+  "baseRenderers": 584
+}

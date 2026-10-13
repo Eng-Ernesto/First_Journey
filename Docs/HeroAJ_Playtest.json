@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "character": "AJ",
+  "roundTrip": true,
+  "samples": 596,
+  "groundedSamples": 596,
+  "minFootHeight": 0.2449997,
+  "maxSpeed": 3.80000782,
+  "maxFootRotationChange": 18.17795,
+  "jumpRise": 1.09013987,
+  "sawJump": true,
+  "sawFall": true,
+  "sawLand": true,
+  "respawns": 0,
+  "elapsedSeconds": 13.4193955,
+  "finalPosition": "(0.06, 0.24, 6.69)",
+  "avatarHuman": true
+}

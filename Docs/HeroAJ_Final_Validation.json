@@ -1,0 +1,14 @@
+{
+  "character": "AJ",
+  "avatarValid": true,
+  "avatarHuman": true,
+  "humanClips": 17,
+  "clips": 17,
+  "missingMaterials": 0,
+  "facialTransparency": true,
+  "characterHeight": 1.72,
+  "cameraFollow": true,
+  "baseRenderers": 584,
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+  "sceneSaved": true
+}

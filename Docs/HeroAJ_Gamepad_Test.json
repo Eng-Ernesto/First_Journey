@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "testDevice": "Virtual Gamepad",
+  "physicalDevices": [
+    {
+      "name": "DualSense Wireless Controller",
+      "layout": "DualSenseGamepadHID"
+    }
+  ],
+  "moveDistance": 1.47149181,
+  "cameraDirectionDot": 0.988037646,
+  "sprintSpeed": 3.59279323,
+  "cameraYawChange": 33.616272,
+  "zoomChange": 0.70290947,
+  "jumpRise": 1.08874178,
+  "grounded": true,
+  "respawnsDuringTest": 0
+}

@@ -1,0 +1,9 @@
+Model=AJ_Model; bounds=Center: (-0.04, 0.88, -0.02), Extents: (0.33, 1.01, 0.39); Avatar=True / True
+Meshes=4; vertices=5154
+Materials=Boy01_Body_MAT1 | Universal Render Pipeline/Lit | texture=none
+Boy01_Brows_MAT2 | Universal Render Pipeline/Lit | texture=none
+Boy01_Eyes_MAT2 | Universal Render Pipeline/Lit | texture=none
+Boy01_Mouth_MAT2 | Universal Render Pipeline/Lit | texture=none
+Textures=
+ClipSettingsProperties=takeName,name,firstFrame,lastFrame,wrapMode,loop,rotationOffset,heightOffset,cycleOffset,loopTime,loopPose,lockRootRotation,lockRootHeightY,lockRootPositionXZ,keepOriginalOrientation,keepOriginalPositionY,keepOriginalPositionXZ,heightFromFeet,mirror,maskType,maskSource,events,curves,maskNeedsUpdating,additiveReferencePoseFrame,hasAdditiveReferencePose
+Scene=Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity

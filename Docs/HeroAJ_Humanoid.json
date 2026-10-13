@@ -1,0 +1,161 @@
+{
+  "character": "AJ",
+  "avatarValid": true,
+  "avatarHuman": true,
+  "clips": 17,
+  "entries": [
+    {
+      "state": "Idle",
+      "clip": "AJ_Idle",
+      "seconds": 9.916667,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": true,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "Walk",
+      "clip": "AJ_Walk",
+      "seconds": 1.2166667,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": true,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "Run",
+      "clip": "AJ_Run",
+      "seconds": 0.7166667,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": true,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "Jump",
+      "clip": "AJ_Jump",
+      "seconds": 2.33333349,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "Fall",
+      "clip": "AJ_Fall",
+      "seconds": 0.6833334,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": true,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "Land",
+      "clip": "AJ_Land",
+      "seconds": 1.06666672,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "PickUp",
+      "clip": "AJ_PickUp",
+      "seconds": 3.41666675,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "ToolIdle",
+      "clip": "AJ_ToolIdle",
+      "seconds": 1.83333337,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": true,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "MineSwing",
+      "clip": "AJ_MineSwing",
+      "seconds": 2.266667,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "SitDown",
+      "clip": "AJ_SitDown",
+      "seconds": 2.23333335,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "PilotIdle",
+      "clip": "AJ_PilotIdle",
+      "seconds": 9.683333,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": true,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "PilotSwitch",
+      "clip": "AJ_PilotSwitch",
+      "seconds": 4.98333359,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "StandUpFromSeat",
+      "clip": "AJ_StandUpFromSeat",
+      "seconds": 4.83333349,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "KneelDown",
+      "clip": "AJ_KneelDown",
+      "seconds": 2.766667,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "KneelIdle",
+      "clip": "AJ_KneelIdle",
+      "seconds": 4.666667,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": true,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "KneelUp",
+      "clip": "AJ_KneelUp",
+      "seconds": 2.766667,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    },
+    {
+      "state": "PetDog",
+      "clip": "AJ_PetDog",
+      "seconds": 11.1166668,
+      "fps": 60.0,
+      "humanoid": true,
+      "loop": false,
+      "avatar": "AJ_ModelAvatar"
+    }
+  ]
+}

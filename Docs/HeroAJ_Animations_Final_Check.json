@@ -1,0 +1,231 @@
+{
+  "Total": 17,
+  "Failures": 0,
+  "All60FPS": true,
+  "Groups": [
+    {
+      "Name": "Avião",
+      "Count": 4
+    },
+    {
+      "Name": "Cachorro",
+      "Count": 4
+    },
+    {
+      "Name": "Exploração e mineração",
+      "Count": 3
+    },
+    {
+      "Name": "Movimento",
+      "Count": 6
+    }
+  ],
+  "HumanoidAndAnimatorPending": false,
+  "Checks": [
+    {
+      "State": "Idle",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 9.916666984558105,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "Walk",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 1.2166666984558105,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "Run",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 0.7166666984558105,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "Jump",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 2.3333334922790527,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "Fall",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 0.6833333969116211,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "Land",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 1.0666667222976685,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "PickUp",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 3.4166667461395264,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "ToolIdle",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 1.8333333730697632,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "MineSwing",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 2.266666889190674,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "SitDown",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 2.2333333492279053,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "PilotIdle",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 9.683333396911621,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "PilotSwitch",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 4.983333587646484,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "StandUpFromSeat",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 4.833333492279053,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "KneelDown",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 2.766666889190674,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "KneelIdle",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 4.6666669845581055,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "KneelUp",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 2.766666889190674,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    },
+    {
+      "State": "PetDog",
+      "Downloaded": true,
+      "SourceMatches": true,
+      "UnityMatches": true,
+      "Imported": true,
+      "FPS": 60.0,
+      "Seconds": 11.116666793823242,
+      "Curves": 384,
+      "Rig": "Human",
+      "MetaExists": true
+    }
+  ],
+  "GameplayValidation": "HeroAJ_Final_Validation.json, HeroAJ_Playtest.json and HeroAJ_Keyboard_Test.json"
+}
