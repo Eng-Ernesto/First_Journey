@@ -1,0 +1,14 @@
+{
+  "character": "Piloto Sidekick v01",
+  "sourceModel": "Assets/_FirstJourney/Art/Characters/PilotoSidekick/Meshes/PilotoSidekick_v01.fbx",
+  "avatar": "Assets/_FirstJourney/Art/Characters/PilotoSidekick/Meshes/PilotoSidekick_v01.fbx",
+  "avatarValid": true,
+  "avatarHuman": true,
+  "activeMotors": 1,
+  "missingMaterials": 0,
+  "cameraFollow": true,
+  "baseRenderers": 584,
+  "ajActive": false,
+  "sceneSaved": true,
+  "backupExists": true
+}

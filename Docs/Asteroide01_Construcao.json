@@ -1,0 +1,15 @@
+{
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity",
+  "prefab": "Assets/_FirstJourney/Prefabs/Asteroide01_Exterior.prefab",
+  "diameterMeters": 16.21542,
+  "heightMeters": 10.25,
+  "houseRenderers": 86,
+  "trees": 0,
+  "hero": "Piloto aventureiro v02",
+  "kingdom": "Fantasy Kingdom — escolhido pelo criador; integração pendente",
+  "doorFunctional": false,
+  "gravity": "Constant downward on the upper surface; radial gravity is not enabled",
+  "spawn": "(1.25, 0.06, 4.60)",
+  "baseSceneUnchanged": true,
+  "sceneSaved": true
+}

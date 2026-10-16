@@ -1,0 +1,15 @@
+{
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity",
+  "sceneSaved": true,
+  "houseRenderers": 86,
+  "trees": 0,
+  "missingMaterials": 0,
+  "activeMotors": 1,
+  "activeCameras": 1,
+  "doorCollider": true,
+  "entrancePrepared": true,
+  "realmTransitionImplemented": false,
+  "compilationFailed": false,
+  "consoleErrors": 0,
+  "consoleWarnings": 1
+}

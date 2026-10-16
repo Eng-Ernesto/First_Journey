@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-16",
+  "character": "Piloto aventureiro v02",
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+  "prefab": "Assets/_FirstJourney/Prefabs/HeroSidekick.prefab",
+  "avatar": "PilotoAventureiro_v02Avatar",
+  "avatarValid": true,
+  "avatarHuman": true,
+  "activeMotors": 1,
+  "renderers": 2,
+  "vertices": 7857,
+  "triangles": 5641,
+  "missingMaterials": 0,
+  "cameraFollowsHero": true,
+  "baseRenderers": 584,
+  "compilationFailed": false,
+  "consoleErrors": 0,
+  "consoleWarnings": 0,
+  "sceneSaved": true,
+  "screenshot": "Assets/_FirstJourney/Review/PilotoAventureiro_GameView_v02.png"
+}

@@ -1,0 +1,31 @@
+{
+  "bootstrap": "Assets/_FirstJourney/Scenes/FirstJourney_EspacoExterior.unity",
+  "contentScenes": [
+    "Assets/_FirstJourney/Scenes/Exterior/FirstJourney_Base_Conteudo.unity",
+    "Assets/_FirstJourney/Scenes/Exterior/FirstJourney_Asteroide01_Conteudo.unity",
+    "Assets/_FirstJourney/Scenes/Worlds/FirstJourney_FantasyKingdom_Conteudo.unity"
+  ],
+  "baseCenter": "(0.00, 0.00, 0.00)",
+  "asteroidCenter": "(0.00, 0.00, 180.00)",
+  "centerDistance": 180.0,
+  "onePersistentPlayer": true,
+  "planeStaysInBaseContent": true,
+  "flightImplemented": false,
+  "sources": [
+    {
+      "path": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+      "hash": "31E01E8E14F302A09DEC7C200E9449FF99851D02BC3D21E70389B2C2D0B8758F",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity",
+      "hash": "EB081FE0C83C533953AC5AA1246F6079EBD67CD0148DF2F6B6093AEAAF4AA75C",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/_FirstJourney/Scenes/FirstJourney_Reino01_FantasyKingdom.unity",
+      "hash": "F77D10539B60BFE5C6FE8DD78D841F041D318A016CEEBA822D8CDEEE20FA720C",
+      "unchanged": true
+    }
+  ]
+}

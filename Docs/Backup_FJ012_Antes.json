@@ -1,0 +1,19 @@
+{
+  "passed": false,
+  "stagedFiles": 3575,
+  "lfsFiles": 874,
+  "largestGitBlobMB": 13.61,
+  "issues": [
+    "Large binary asset outside LFS: Assets/Art/Meshes/Foliage/Trees and Bushes/BigHeroTree_01.st9",
+    "Large binary asset outside LFS: Assets/Art/Meshes/Foliage/Trees and Bushes/SmallTreeRound_01.st9",
+    "Large binary asset outside LFS: Assets/Art/Meshes/Foliage/Trees and Bushes/SmallTreeRound_02.st9",
+    "Large binary asset outside LFS: Assets/Art/Meshes/Foliage/Trees and Bushes/SmallTreeRound_03.st9",
+    "Large binary asset outside LFS: Assets/Art/Meshes/Foliage/Trees and Bushes/TreeLargeStylized_02.st9",
+    "Large binary asset outside LFS: Assets/Art/Textures/Foliage/Trees and Bushes/TreeLargeStylized_01.st9",
+    "Large binary asset outside LFS: Assets/Scenes/Demo/Demo Baking Set-Default.CellData.bytes",
+    "Large binary asset outside LFS: Assets/Scenes/Demo/Demo Baking Set.CellSupportData.bytes",
+    "Large binary asset outside LFS: Assets/Synty/SidekickCharacters/Database/Side_Kick_Data.db",
+    "Large binary asset outside LFS: Assets/Synty/SidekickCharacters/Plugins/unity-sqlite-net-1.2.4/Plugins/lib/macos/libgilzoide-sqlite-net.dylib",
+    "Large binary asset outside LFS: Assets/Terrain/TerrainData.asset"
+  ]
+}

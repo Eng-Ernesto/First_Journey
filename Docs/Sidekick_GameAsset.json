@@ -1,0 +1,10 @@
+{
+  "character": "Piloto aventureiro v02",
+  "visual": "Assets/_FirstJourney/Prefabs/PilotoAventureiro_Visual_Jogo_v02.prefab",
+  "fbx": "Assets/_FirstJourney/Art/Characters/PilotoAventureiro/Meshes/PilotoAventureiro_v02.fbx",
+  "avatar": "PilotoAventureiro_v02Avatar",
+  "avatarHuman": true,
+  "avatarValid": true,
+  "visualScale": 0.937823057,
+  "sceneSaved": true
+}

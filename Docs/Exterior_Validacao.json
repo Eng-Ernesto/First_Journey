@@ -1,0 +1,23 @@
+{
+  "bootstrap": "Assets/_FirstJourney/Scenes/FirstJourney_EspacoExterior.unity",
+  "allSaved": true,
+  "scenes": [
+    "Assets/_FirstJourney/Scenes/FirstJourney_EspacoExterior.unity",
+    "Assets/_FirstJourney/Scenes/Exterior/FirstJourney_Base_Conteudo.unity",
+    "Assets/_FirstJourney/Scenes/Exterior/FirstJourney_Asteroide01_Conteudo.unity"
+  ],
+  "baseOriginalArtRenderers": 584,
+  "planeRenderers": 38,
+  "activeMotors": 1,
+  "activeCameras": 1,
+  "activeListeners": 1,
+  "missingMaterials": 0,
+  "missingScripts": 0,
+  "asteroidPosition": "(0.00, 0.00, 180.00)",
+  "worldLoaded": false,
+  "compilationFailed": false,
+  "consoleErrors": 0,
+  "consoleWarnings": 1,
+  "flightImplemented": false,
+  "standaloneBuildTested": false
+}

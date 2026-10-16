@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_FirstJourney/Scenes/FirstJourney_EspacoExterior.unity
+    guid: 78dccb24575515e46ba8b7f971310465
+  - enabled: 1
+    path: Assets/_FirstJourney/Scenes/Exterior/FirstJourney_Base_Conteudo.unity
+    guid: 62e4127b65b51a546b21ba7530d68e34
+  - enabled: 1
+    path: Assets/_FirstJourney/Scenes/Exterior/FirstJourney_Asteroide01_Conteudo.unity
+    guid: 05da5ad8669d3c0449b4bb12d3b607da
+  - enabled: 1
+    path: Assets/_FirstJourney/Scenes/Worlds/FirstJourney_FantasyKingdom_Conteudo.unity
+    guid: 78708277f9c886147b6312d8152a7ce0
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity
+    guid: 3a48fbfd0d6ef0f4893cc2b42b0f2529
+  - enabled: 1
+    path: Assets/_FirstJourney/Scenes/FirstJourney_Reino01_FantasyKingdom.unity
+    guid: 72e94eb783fb04440b44e1f37875be47
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

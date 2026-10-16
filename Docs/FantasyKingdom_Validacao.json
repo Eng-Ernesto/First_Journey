@@ -1,0 +1,21 @@
+{
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_Reino01_FantasyKingdom.unity",
+  "sceneSaved": true,
+  "sourceScene": "Assets/Scenes/Demo.unity",
+  "missingActiveMaterials": 0,
+  "inheritedMissingInactiveRockMaterials": 16,
+  "unsupportedMaterials": [],
+  "missingScripts": 0,
+  "activeMotors": 1,
+  "activeCameras": 1,
+  "terrainCollider": true,
+  "accurateMeshColliders": 1640,
+  "returnPortal": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity",
+  "fallResetHeight": -100.0,
+  "avatarValid": true,
+  "avatarHuman": true,
+  "compilationFailed": false,
+  "consoleErrorsAfterClearingResolvedImportMessages": 0,
+  "consoleWarnings": 0,
+  "standaloneBuildTested": false
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "samples": 482,
+  "groundedSamples": 482,
+  "maxSpeed": 3.79966569,
+  "jumpRise": 1.04223943,
+  "sawJump": true,
+  "sawFall": true,
+  "sawLand": true,
+  "unexpectedRespawns": 0,
+  "avatarValid": true,
+  "avatarHuman": true
+}

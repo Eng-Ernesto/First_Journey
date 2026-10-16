@@ -1,0 +1,25 @@
+{
+  "installed": true,
+  "originalPlaneParts": 38,
+  "source": "(24.400, 0.247, 4.608)",
+  "destination": "(3.300, 0.025, 183.100)",
+  "destinationYaw": 90.0,
+  "destinationWheelSupport": [
+    {
+      "wheel": "(4.400, 0.455, 184.230)",
+      "ground": "(4.400, 0.000, 184.230)",
+      "name": "Rocha_Asteroide01",
+      "gap": 0.025000006
+    },
+    {
+      "wheel": "(4.400, 0.455, 181.970)",
+      "ground": "(4.400, 0.000, 181.970)",
+      "name": "Rocha_Asteroide01",
+      "gap": 0.025000006
+    }
+  ],
+  "destinationPotentialBoundsOverlaps": [],
+  "exit": "(1.900, 0.065, 185.750)",
+  "exitGround": "(1.900, 0.000, 185.750)",
+  "singleCamera": "Main Camera"
+}

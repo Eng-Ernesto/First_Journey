@@ -1,0 +1,28 @@
+{
+  "sameWorld": true,
+  "regions": 3,
+  "portalsBetweenRegions": false,
+  "doors": [
+    {
+      "region": 1,
+      "door": "(5.560, 1.080, 17.200)",
+      "approach": "(8.300, 0.400, 17.200)",
+      "leafParts": 9,
+      "destination": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity"
+    },
+    {
+      "region": 2,
+      "door": "(187.895, 1.102, 287.698)",
+      "approach": "(187.989, 0.422, 284.960)",
+      "leafParts": 9,
+      "destination": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity"
+    },
+    {
+      "region": 3,
+      "door": "(-135.180, 1.110, 397.308)",
+      "approach": "(-133.936, 0.430, 394.866)",
+      "leafParts": 9,
+      "destination": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity"
+    }
+  ]
+}

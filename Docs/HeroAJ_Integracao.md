@@ -1,5 +1,9 @@
 # First Journey — AJ jogável, versão 01
 
+**Atualização de 15 outubro 2026:** o criador decidiu substituir o AJ por personagens criados no Synty Sidekick. Este documento descreve a implementação provisória ainda instalada. Os 17 clips Humanoid, movimento, câmara e controlos serão reaproveitados na migração. Ver `Personagens_Sidekick.md`.
+
+**Migração concluída em 16 outubro:** o herói ativo passou a ser `HeroSidekick`, com Avatar próprio e os mesmos clips e controlos. Esta integração do AJ é agora histórica; ver `Sidekick_Integracao_v01.md`.
+
 O personagem instalado é o AJ selecionado no Mixamo: boné vermelho, óculos, roupa escura e mochila original. A fonte completa é `AJ_WithSkin.fbx`, uma cópia de `Aj@Petting Animal (1).fbx` descarregada pelo utilizador. `explorador.fbx` não é usado pelo herói.
 
 O Avatar Humanoid foi validado no Editor e durante o jogo. Os 17 clips usam esse Avatar e mantêm 60 FPS. Os materiais preservam as quatro texturas extraídas do FBX; a transparência do atlas facial foi configurada para os olhos, sobrancelhas e boca.

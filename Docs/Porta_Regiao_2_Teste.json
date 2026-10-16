@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "region": 2,
+  "sameWorld": true,
+  "doorIsOnHouse": true,
+  "walkFromOriginalArrival": false,
+  "setupTeleportForDistantRegion": true,
+  "departure": "(187.989, 0.288, 284.960)",
+  "inRange": true,
+  "grounded": true,
+  "openedDegreesOver25": true,
+  "visibleOpening": true,
+  "keyboardE": true,
+  "unexpectedRespawns": 0,
+  "returned": "(-1.175, 0.025, 2.150)",
+  "returnedGrounded": true,
+  "noBounce": true
+}

@@ -23,6 +23,11 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# Downloaded installers and disposable regression output (imported assets are versioned).
+/Assets/DownloadCache/
+/Assets/DownloadCache.meta
+/TestResults/
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta

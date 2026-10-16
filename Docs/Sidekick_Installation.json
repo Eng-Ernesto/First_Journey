@@ -1,0 +1,14 @@
+{
+  "character": "Piloto Sidekick v01",
+  "root": "HeroSidekick",
+  "prefab": "Assets/_FirstJourney/Prefabs/HeroSidekick.prefab",
+  "backup": "Assets/_FirstJourney/Scenes/Versions/FirstJourney_LuaBase_AntesSidekick.unity",
+  "height": 1.72,
+  "visualScale": 0.954556,
+  "avatarHuman": true,
+  "avatarValid": true,
+  "cameraFollow": true,
+  "activeMotors": 1,
+  "baseRenderers": 584,
+  "sceneSaved": true
+}

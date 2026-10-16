@@ -1,0 +1,10 @@
+{
+  "character": "FirstJourney_Piloto_v02",
+  "prefab": "Assets/_FirstJourney/Prefabs/PilotoAventureiro_Visual_v02.prefab",
+  "definition": "Assets/_FirstJourney/Art/Characters/PilotoAventureiro/Definition/FirstJourney_Piloto_v02.sk",
+  "parts": 23,
+  "vertices": 10559,
+  "avatar": "SK_BaseModelAvatar",
+  "avatarHuman": true,
+  "avatarValid": true
+}

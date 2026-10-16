@@ -1,0 +1,33 @@
+{
+  "source": "C:\\Users\\User\\AppData\\Roaming\\Unity\\Asset Store-5.x\\Unity Technologies\\Complete ProjectsPacks\\Fantasy Kingdom 3D Sample Project.unitypackage",
+  "assetPaths": 1043,
+  "excluded": [
+    "ProjectSettings/MultiplayerManager.asset",
+    "ProjectSettings/InputManager.asset",
+    "ProjectSettings/TagManager.asset",
+    "ProjectSettings/ProjectSettings.asset",
+    "ProjectSettings/NavMeshAreas.asset",
+    "ProjectSettings/Physics2DSettings.asset",
+    "ProjectSettings/AudioManager.asset",
+    "ProjectSettings/GraphicsSettings.asset",
+    "ProjectSettings/TimeManager.asset",
+    "ProjectSettings/ClusterInputManager.asset",
+    "ProjectSettings/DynamicsManager.asset",
+    "ProjectSettings/QualitySettings.asset",
+    "ProjectSettings/UnityConnectSettings.asset",
+    "ProjectSettings/EditorBuildSettings.asset",
+    "ProjectSettings/PresetManager.asset",
+    "ProjectSettings/EditorSettings.asset",
+    "ProjectSettings/VFXManager.asset",
+    "ProjectSettings/VersionControlSettings.asset",
+    "ProjectSettings/MemorySettings.asset",
+    "Assets/Data/VerifyProjectSettings.asset",
+    "Assets/Scripts/VerifyProject.cs",
+    "Assets/Scripts/TutorialInfo/Editor/FKReadmeEditor.cs",
+    "Packages/manifest.json"
+  ],
+  "filteredBytes": 1412224641,
+  "output": "C:\\Ernesto\\unity\\First_Journey\\Temp\\FantasyKingdom_Import.unitypackage",
+  "gzipEmbeddedFilename": "archtemp.tar",
+  "serializedAssetsModified": false
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "character": "Piloto aventureiro v02",
+  "roundTrip": true,
+  "samples": 611,
+  "groundedSamples": 611,
+  "minFootHeight": 0.2449997,
+  "maxSpeed": 3.800006,
+  "maxFootRotationChange": 17.1890965,
+  "jumpRise": 1.09256792,
+  "sawJump": true,
+  "sawFall": true,
+  "sawLand": true,
+  "respawns": 0,
+  "elapsedSeconds": 13.6898182,
+  "finalPosition": "(0.04, 0.24, 6.69)",
+  "avatarHuman": true
+}

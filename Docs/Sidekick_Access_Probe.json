@@ -1,0 +1,190 @@
+{
+  "inspectedOn": "2026-10-15",
+  "version": "1.2.7",
+  "scene": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+  "dirtyBefore": false,
+  "dirtyAfter": false,
+  "sceneRootsPreserved": true,
+  "partCount": 157,
+  "availableGroups": [
+    {
+      "group": "Head",
+      "count": 2
+    },
+    {
+      "group": "Hair",
+      "count": 11
+    },
+    {
+      "group": "EyebrowLeft",
+      "count": 10
+    },
+    {
+      "group": "EyebrowRight",
+      "count": 10
+    },
+    {
+      "group": "EyeLeft",
+      "count": 1
+    },
+    {
+      "group": "EyeRight",
+      "count": 1
+    },
+    {
+      "group": "EarLeft",
+      "count": 10
+    },
+    {
+      "group": "EarRight",
+      "count": 10
+    },
+    {
+      "group": "FacialHair",
+      "count": 10
+    },
+    {
+      "group": "Torso",
+      "count": 3
+    },
+    {
+      "group": "ArmUpperLeft",
+      "count": 3
+    },
+    {
+      "group": "ArmUpperRight",
+      "count": 3
+    },
+    {
+      "group": "ArmLowerLeft",
+      "count": 3
+    },
+    {
+      "group": "ArmLowerRight",
+      "count": 3
+    },
+    {
+      "group": "HandLeft",
+      "count": 3
+    },
+    {
+      "group": "HandRight",
+      "count": 3
+    },
+    {
+      "group": "Hips",
+      "count": 3
+    },
+    {
+      "group": "LegLeft",
+      "count": 3
+    },
+    {
+      "group": "LegRight",
+      "count": 3
+    },
+    {
+      "group": "FootLeft",
+      "count": 3
+    },
+    {
+      "group": "FootRight",
+      "count": 3
+    },
+    {
+      "group": "AttachmentHead",
+      "count": 4
+    },
+    {
+      "group": "AttachmentFace",
+      "count": 2
+    },
+    {
+      "group": "AttachmentBack",
+      "count": 2
+    },
+    {
+      "group": "AttachmentHipsFront",
+      "count": 2
+    },
+    {
+      "group": "AttachmentHipsBack",
+      "count": 3
+    },
+    {
+      "group": "AttachmentHipsLeft",
+      "count": 3
+    },
+    {
+      "group": "AttachmentHipsRight",
+      "count": 3
+    },
+    {
+      "group": "AttachmentShoulderLeft",
+      "count": 3
+    },
+    {
+      "group": "AttachmentShoulderRight",
+      "count": 3
+    },
+    {
+      "group": "AttachmentElbowLeft",
+      "count": 2
+    },
+    {
+      "group": "AttachmentElbowRight",
+      "count": 2
+    },
+    {
+      "group": "AttachmentKneeLeft",
+      "count": 2
+    },
+    {
+      "group": "AttachmentKneeRight",
+      "count": 2
+    },
+    {
+      "group": "Nose",
+      "count": 11
+    },
+    {
+      "group": "Teeth",
+      "count": 10
+    },
+    {
+      "group": "Tongue",
+      "count": 1
+    },
+    {
+      "group": "Wrap",
+      "count": 1
+    }
+  ],
+  "species": [
+    "Human",
+    "Unrestricted"
+  ],
+  "installedFilters": [
+    "Sci-fi - Civilians",
+    "Fantasy - Knights"
+  ],
+  "testResults": {
+    "apiCreatedCharacter": true,
+    "sourceParts": 24,
+    "combinedRenderers": 1,
+    "vertices": 7641,
+    "blendShapes": 88,
+    "avatarHuman": true,
+    "avatarValid": true,
+    "bodyWeightBefore": 40.0,
+    "bodyWeightAfter": 80.0,
+    "bodyChanged": true,
+    "facialChanged": true,
+    "colorChanged": true,
+    "shader": "Shader Graphs/Sidekick_ShaderGraph",
+    "shaderSupported": true,
+    "ajControllerAssigned": true,
+    "retargetLegRotationDegrees": 25.863472,
+    "passed": true
+  }
+}

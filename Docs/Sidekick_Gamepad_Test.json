@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "testDevice": "Virtual Gamepad",
+  "physicalDevices": [],
+  "moveDistance": 1.37146974,
+  "cameraDirectionDot": 1.0,
+  "sprintSpeed": 3.54720736,
+  "cameraYawChange": 32.9505,
+  "zoomChange": 0.5999999,
+  "jumpRise": 1.0939517,
+  "grounded": true,
+  "respawnsDuringTest": 0
+}

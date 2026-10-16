@@ -1,0 +1,354 @@
+{
+  "inspectedOn": "2026-10-15",
+  "totalClipAssets": 58,
+  "clips": [
+    {
+      "path": "Assets/Synty/SidekickCharacters/_Demos/Animations/BodyCycles/A_Body_IdleSubtle.fbx",
+      "name": "A_Body_IdleSubtle",
+      "human": true,
+      "length": 9.966667
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/eyeDown.fbx",
+      "name": "eyeDown",
+      "human": true,
+      "length": 0.208333343
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/eyeDown_blends_ReferencePose.anim",
+      "name": "eyeDown_blends_ReferencePose",
+      "human": true,
+      "length": 0.0
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/eyeDown_joints_ReferencePose.anim",
+      "name": "eyeDown_joints_ReferencePose",
+      "human": true,
+      "length": 0.0
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/EyeUP_Andrew.fbx",
+      "name": "Take 001",
+      "human": true,
+      "length": 0.3
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/eyeUp_blends_ReferencePose.anim",
+      "name": "eyeUp_blends_ReferencePose",
+      "human": true,
+      "length": 0.0
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/eyeUp_joints.anim",
+      "name": "eyeUp_joints",
+      "human": true,
+      "length": 0.0
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/eyeUp_joints_ReferencePose.anim",
+      "name": "eyeUp_joints_ReferencePose",
+      "human": true,
+      "length": 0.0
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FaceCycles/A_Face_Anger.anim",
+      "name": "A_Face_Anger",
+      "human": false,
+      "length": 10.000001
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FaceCycles/A_Face_Neutral.anim",
+      "name": "A_Face_Neutral",
+      "human": false,
+      "length": 9.966667
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FaceCycles/A_FaceCycle_Anger.fbx",
+      "name": "A_Face_Anger",
+      "human": false,
+      "length": 10.000001
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FaceCycles/A_FaceCycle_Neutral.fbx",
+      "name": "A_Face_Neutral",
+      "human": false,
+      "length": 9.966667
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FaceCycles/A_FaceCycle_Sadness.fbx",
+      "name": "A_Sadness",
+      "human": false,
+      "length": 9.966667
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FaceCycles/A_Sadness.anim",
+      "name": "A_Sadness",
+      "human": false,
+      "length": 9.966667
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Angry.anim",
+      "name": "A_FacePose_Angry",
+      "human": false,
+      "length": 0.03333333
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Angry.fbx",
+      "name": "A_FacePose_Angry",
+      "human": false,
+      "length": 0.03333333
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Angry2.anim",
+      "name": "A_FacePose_Angry2",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Blink.anim",
+      "name": "A_FacePose_Blink",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Content.anim",
+      "name": "A_FacePose_Content",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Content.fbx",
+      "name": "A_FacePose_Content",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Delighted.anim",
+      "name": "A_FacePose_Delighted",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Delighted.fbx",
+      "name": "A_FacePose_Delighted",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Disgusted.anim",
+      "name": "A_FacePose_Disgusted",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Disgusted.fbx",
+      "name": "A_FacePose_Disgusted",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Distraught.anim",
+      "name": "A_FacePose_Distraught",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Distraught.fbx",
+      "name": "A_FacePose_Distraught",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Enraged.anim",
+      "name": "A_FacePose_Enraged",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Enraged.fbx",
+      "name": "A_FacePose_Enraged",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_EyeDown.anim",
+      "name": "A_FacePose_EyeDown",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_EyeLeft.anim",
+      "name": "A_FacePose_EyeLeft",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_EyeRight.anim",
+      "name": "A_FacePose_EyeRight",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_EyeUp.anim",
+      "name": "A_FacePose_EyeUp",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Grumpy.anim",
+      "name": "A_FacePose_Grumpy",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Grumpy.fbx",
+      "name": "A_FacePose_Grumpy",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Happy.anim",
+      "name": "A_FacePose_Happy",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Happy.fbx",
+      "name": "A_FacePose_Happy",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Happy2.anim",
+      "name": "A_FacePose_Happy2",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_InPain.anim",
+      "name": "A_FacePose_InPain",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_InPain.fbx",
+      "name": "A_FacePose_InPain",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Neutral.anim",
+      "name": "A_FacePose_Neutral",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Neutral.fbx",
+      "name": "A_FacePose_Neutral",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Sad.anim",
+      "name": "A_FacePose_Sad",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Sad.fbx",
+      "name": "A_FacePose_Sad",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Scared.anim",
+      "name": "A_FacePose_Scared",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Scared.fbx",
+      "name": "A_FacePose_Scared",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Smug.anim",
+      "name": "A_FacePose_Smug",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Smug.fbx",
+      "name": "A_FacePose_Smug",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Surprised.anim",
+      "name": "A_FacePose_Surprised",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Surprised.fbx",
+      "name": "A_FacePose_Surprised",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Suspicious.anim",
+      "name": "A_FacePose_Suspicious",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Suspicious.fbx",
+      "name": "A_FacePose_Suspicious",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Terrified.anim",
+      "name": "A_FacePose_Terrified",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Terrified.fbx",
+      "name": "A_FacePose_Terrified",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Worried.anim",
+      "name": "A_FacePose_Worried",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/A_FacePose_Worried.fbx",
+      "name": "A_FacePose_Worried",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/eyeL.anim",
+      "name": "eyeL",
+      "human": false,
+      "length": 0.03333334
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/FacePoses/ReferencePose/A_FacePose_ReferencePose.anim",
+      "name": "A_FacePose_ReferencePose",
+      "human": false,
+      "length": 0.03333333
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Animations/Take 001.anim",
+      "name": "Take 001",
+      "human": true,
+      "length": 0.3
+    }
+  ]
+}

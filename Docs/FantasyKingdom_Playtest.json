@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "keyboardEntry": true,
+  "virtualGamepadReturn": true,
+  "rejectedAtDistance": true,
+  "arrival": "(4.000, 0.173, 6.000)",
+  "arrivalGrounded": true,
+  "realmDeparture": "(4.000, 0.263, 8.386)",
+  "realmGrounded": true,
+  "jumpRise": 1.00896263,
+  "sawJump": true,
+  "sawFall": true,
+  "sawLand": true,
+  "unexpectedRealmRespawns": 0,
+  "returned": "(-1.175, 0.025, 2.150)",
+  "returnedGrounded": true,
+  "noAutomaticBounce": true,
+  "activeMotors": 1,
+  "activeCameras": 1,
+  "physicalDevicesIsolated": [
+    "Keyboard"
+  ]
+}

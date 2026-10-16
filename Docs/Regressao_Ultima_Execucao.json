@@ -1,0 +1,426 @@
+{
+  "passed": true,
+  "startedUtc": "2026-10-16T14:03:36.2163561Z",
+  "finishedUtc": "2026-10-16T14:05:23.3086081Z",
+  "unityEditor": "6000.3.23f1",
+  "execution": "Unity CLI/Pipeline against the open Editor",
+  "physicalControllerTested": false,
+  "standaloneBuildTested": false,
+  "scenarios": [
+    {
+      "name": "SaveProject",
+      "passed": true,
+      "result": {
+        "saved": true,
+        "scenes": [
+          {
+            "path": "Assets/_FirstJourney/Scenes/FirstJourney_EspacoExterior.unity",
+            "dirty": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Humanoid17Clips",
+      "passed": true,
+      "result": {
+        "passed": true,
+        "character": "Piloto aventureiro v02",
+        "clips": 17,
+        "avatarHuman": true,
+        "avatarValid": true,
+        "method": "Humanoid PlayableGraph evaluated on the actual Sidekick rig; five deformed-mesh samples per clip",
+        "entries": [
+          {
+            "clip": "AJ_Fall",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 0.6833334,
+            "samples": 5,
+            "minHeight": 1.16946054,
+            "maxHeight": 1.28033352,
+            "maxVertexRadius": 1.409727,
+            "maxBoneRotationChange": 14.1785574
+          },
+          {
+            "clip": "AJ_Idle",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 9.916667,
+            "samples": 5,
+            "minHeight": 1.78499341,
+            "maxHeight": 1.83403456,
+            "maxVertexRadius": 1.83959424,
+            "maxBoneRotationChange": 9.566716
+          },
+          {
+            "clip": "AJ_Jump",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 2.33333349,
+            "samples": 5,
+            "minHeight": 1.457619,
+            "maxHeight": 1.818352,
+            "maxVertexRadius": 1.98584509,
+            "maxBoneRotationChange": 53.8688431
+          },
+          {
+            "clip": "AJ_KneelDown",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 2.766667,
+            "samples": 5,
+            "minHeight": 1.14778161,
+            "maxHeight": 1.85464978,
+            "maxVertexRadius": 1.85771847,
+            "maxBoneRotationChange": 66.7137451
+          },
+          {
+            "clip": "AJ_KneelIdle",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 4.666667,
+            "samples": 5,
+            "minHeight": 1.219551,
+            "maxHeight": 1.22551751,
+            "maxVertexRadius": 1.31090355,
+            "maxBoneRotationChange": 2.077457
+          },
+          {
+            "clip": "AJ_KneelUp",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 2.766667,
+            "samples": 5,
+            "minHeight": 1.17640936,
+            "maxHeight": 1.86035407,
+            "maxVertexRadius": 1.86571562,
+            "maxBoneRotationChange": 68.2938
+          },
+          {
+            "clip": "AJ_Land",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 1.06666672,
+            "samples": 5,
+            "minHeight": 1.20058227,
+            "maxHeight": 1.79890943,
+            "maxVertexRadius": 1.30200112,
+            "maxBoneRotationChange": 88.39351
+          },
+          {
+            "clip": "AJ_MineSwing",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 2.266667,
+            "samples": 5,
+            "minHeight": 1.61286557,
+            "maxHeight": 1.7503171,
+            "maxVertexRadius": 1.78724444,
+            "maxBoneRotationChange": 87.68863
+          },
+          {
+            "clip": "AJ_PetDog",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 11.1166668,
+            "samples": 5,
+            "minHeight": 1.43561137,
+            "maxHeight": 1.84395385,
+            "maxVertexRadius": 1.85512722,
+            "maxBoneRotationChange": 42.7980652
+          },
+          {
+            "clip": "AJ_PickUp",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 3.41666675,
+            "samples": 5,
+            "minHeight": 1.71113443,
+            "maxHeight": 1.83346748,
+            "maxVertexRadius": 1.83641112,
+            "maxBoneRotationChange": 31.6285133
+          },
+          {
+            "clip": "AJ_PilotIdle",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 9.683333,
+            "samples": 5,
+            "minHeight": 1.23418236,
+            "maxHeight": 1.31591165,
+            "maxVertexRadius": 1.44975913,
+            "maxBoneRotationChange": 13.6037951
+          },
+          {
+            "clip": "AJ_PilotSwitch",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 4.98333359,
+            "samples": 5,
+            "minHeight": 1.22251344,
+            "maxHeight": 1.31316292,
+            "maxVertexRadius": 1.44668365,
+            "maxBoneRotationChange": 38.35346
+          },
+          {
+            "clip": "AJ_Run",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 0.7166667,
+            "samples": 5,
+            "minHeight": 1.54324245,
+            "maxHeight": 1.6633389,
+            "maxVertexRadius": 1.670203,
+            "maxBoneRotationChange": 56.664463
+          },
+          {
+            "clip": "AJ_SitDown",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 2.23333335,
+            "samples": 5,
+            "minHeight": 1.11115563,
+            "maxHeight": 1.84510756,
+            "maxVertexRadius": 1.849919,
+            "maxBoneRotationChange": 52.28132
+          },
+          {
+            "clip": "AJ_StandUpFromSeat",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 4.83333349,
+            "samples": 5,
+            "minHeight": 1.45159936,
+            "maxHeight": 1.83092511,
+            "maxVertexRadius": 1.8627069,
+            "maxBoneRotationChange": 27.13214
+          },
+          {
+            "clip": "AJ_ToolIdle",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 1.83333337,
+            "samples": 5,
+            "minHeight": 1.65434313,
+            "maxHeight": 1.72334218,
+            "maxVertexRadius": 1.72938061,
+            "maxBoneRotationChange": 15.8989916
+          },
+          {
+            "clip": "AJ_Walk",
+            "passed": true,
+            "humanoid": true,
+            "fps": 60,
+            "seconds": 1.2166667,
+            "samples": 5,
+            "minHeight": 1.81945908,
+            "maxHeight": 1.86031556,
+            "maxVertexRadius": 1.83867192,
+            "maxBoneRotationChange": 28.3403835
+          }
+        ]
+      }
+    },
+    {
+      "name": "ColdStart",
+      "passed": true,
+      "result": {
+        "loadedScenes": 1,
+        "path": "Assets/_FirstJourney/Scenes/FirstJourney_EspacoExterior.unity"
+      }
+    },
+    {
+      "name": "PreparePlay",
+      "passed": true,
+      "result": {
+        "prepared": true,
+        "background": true
+      }
+    },
+    {
+      "name": "PlayFramesAdvance",
+      "passed": true,
+      "result": {
+        "passed": true,
+        "framesAdvanced": 6,
+        "ready": true
+      }
+    },
+    {
+      "name": "AircraftJourney",
+      "passed": true,
+      "result": {
+        "passed": true,
+        "elapsedSeconds": 73.4716594,
+        "distantBoardBlocked": true,
+        "airborneExitBlocked": true,
+        "unsafeExitBlocked": true,
+        "obstacleBlocked": true,
+        "planePersistsDuringWorldVisit": true,
+        "sameHeroAndCamera": true,
+        "activeCameras": 1,
+        "activeListeners": 1,
+        "activeOnFootMotors": 1,
+        "unexpectedRespawns": 0,
+        "ObstacleStops": 4,
+        "totalFlightDistance": 397.205444,
+        "aircraftTransformTeleportedByTest": false,
+        "virtualKeyboardOutbound": true,
+        "virtualGamepadReturn": true,
+        "interiorReturnDoorApproachPlacedByTest": true,
+        "stages": [
+          {
+            "stage": "outbound",
+            "passed": true,
+            "distance": 197.956924,
+            "position": "(3.30, 0.03, 183.10)",
+            "landedAt": "Asteroide 01",
+            "grounded": true
+          },
+          {
+            "stage": "world visit",
+            "passed": true,
+            "exteriorHidden": true,
+            "planePoseRetained": true,
+            "grounded": true
+          },
+          {
+            "stage": "return",
+            "passed": true,
+            "totalDistance": 397.205444,
+            "position": "(24.40, 0.25, 4.61)",
+            "landedAt": "Lua-base",
+            "grounded": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "ThreeReturnDoors",
+      "passed": true,
+      "result": {
+        "passed": true,
+        "coldStartBaseGrounded": true,
+        "exteriorSceneCount": 3,
+        "baseAndDestinationDistance": 180,
+        "flightSimulatedByTestOnly": true,
+        "flightImplemented": false,
+        "roundTrips": [
+          {
+            "region": 1,
+            "passed": true,
+            "initialWorldGrounded": true,
+            "exteriorHidden": true,
+            "noInteriorActor": true,
+            "planeInstanceAndPoseRetained": true,
+            "sameActorAndCamera": true,
+            "sameExteriorSceneInstances": true,
+            "worldUnloaded": true,
+            "returnedToDestinationAsteroid": true,
+            "grounded": true,
+            "planeDistance": 3.67347,
+            "activeMotors": 1,
+            "activeCameras": 1,
+            "doorClosedForNextTrip": true,
+            "virtualGamepadReturn": false
+          },
+          {
+            "region": 2,
+            "passed": true,
+            "initialWorldGrounded": true,
+            "exteriorHidden": true,
+            "noInteriorActor": true,
+            "planeInstanceAndPoseRetained": true,
+            "sameActorAndCamera": true,
+            "sameExteriorSceneInstances": true,
+            "worldUnloaded": true,
+            "returnedToDestinationAsteroid": true,
+            "grounded": true,
+            "planeDistance": 3.67347,
+            "activeMotors": 1,
+            "activeCameras": 1,
+            "doorClosedForNextTrip": true,
+            "virtualGamepadReturn": false
+          },
+          {
+            "region": 3,
+            "passed": true,
+            "initialWorldGrounded": true,
+            "exteriorHidden": true,
+            "noInteriorActor": true,
+            "planeInstanceAndPoseRetained": true,
+            "sameActorAndCamera": true,
+            "sameExteriorSceneInstances": true,
+            "worldUnloaded": true,
+            "returnedToDestinationAsteroid": true,
+            "grounded": true,
+            "planeDistance": 3.67347,
+            "activeMotors": 1,
+            "activeCameras": 1,
+            "doorClosedForNextTrip": true,
+            "virtualGamepadReturn": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "SavedSceneIntegrity",
+      "passed": true,
+      "result": {
+        "passed": true,
+        "entryScene": "Assets/_FirstJourney/Scenes/FirstJourney_EspacoExterior.unity",
+        "allSaved": true,
+        "flightInstalled": true,
+        "landingSites": 2,
+        "planeParts": 38,
+        "staticPlaneParts": 0,
+        "baseOriginalArtRenderers": 584,
+        "activeCameras": 1,
+        "activeListeners": 1,
+        "activeMotors": 1,
+        "missingScripts": 0,
+        "missingMaterials": 0,
+        "compilationFailed": false,
+        "consoleErrors": 0,
+        "consoleWarnings": 1,
+        "sources": [
+          {
+            "path": "Assets/_FirstJourney/Scenes/FirstJourney_LuaBase.unity",
+            "hash": "31E01E8E14F302A09DEC7C200E9449FF99851D02BC3D21E70389B2C2D0B8758F",
+            "unchanged": true
+          },
+          {
+            "path": "Assets/_FirstJourney/Scenes/FirstJourney_Asteroide01.unity",
+            "hash": "EB081FE0C83C533953AC5AA1246F6079EBD67CD0148DF2F6B6093AEAAF4AA75C",
+            "unchanged": true
+          },
+          {
+            "path": "Assets/_FirstJourney/Scenes/FirstJourney_Reino01_FantasyKingdom.unity",
+            "hash": "F77D10539B60BFE5C6FE8DD78D841F041D318A016CEEBA822D8CDEEE20FA720C",
+            "unchanged": true
+          }
+        ],
+        "standaloneBuildTested": false,
+        "physicalControllerTested": false
+      }
+    }
+  ],
+  "error": null
+}

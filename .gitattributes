@@ -147,6 +147,7 @@ Packages/packages-lock.json linguist-generated
 *.dll                   lfs
 *.pdb                   lfs
 *.so                    lfs
+*.dylib                 lfs
 
 # Fonts
 *.otf                   lfs
@@ -169,3 +170,11 @@ Packages/packages-lock.json linguist-generated
 
 # Exceptions for .asset files such as lightning pre-baking
 LightingData.asset     binary
+
+# Imported binary terrain, baked lighting, SpeedTree models and Sidekick database.
+*.bytes                 lfs
+*.st9                   lfs
+*.db                    lfs
+*.sqlite                lfs
+*.sqlite3               lfs
+Assets/Terrain/TerrainData.asset lfs

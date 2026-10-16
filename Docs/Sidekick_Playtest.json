@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "character": "Piloto Sidekick v01",
+  "roundTrip": true,
+  "samples": 618,
+  "groundedSamples": 618,
+  "minFootHeight": 0.244798481,
+  "maxSpeed": 3.80000687,
+  "maxFootRotationChange": 16.4165421,
+  "jumpRise": 1.09291792,
+  "sawJump": true,
+  "sawFall": true,
+  "sawLand": true,
+  "respawns": 0,
+  "elapsedSeconds": 13.357592299999999,
+  "finalPosition": "(0.05, 0.24, 6.69)",
+  "avatarHuman": true
+}

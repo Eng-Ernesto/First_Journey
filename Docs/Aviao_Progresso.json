@@ -1,0 +1,49 @@
+{
+  "stage": "Complete",
+  "data": {
+    "passed": true,
+    "elapsedSeconds": 73.4716594,
+    "distantBoardBlocked": true,
+    "airborneExitBlocked": true,
+    "unsafeExitBlocked": true,
+    "obstacleBlocked": true,
+    "planePersistsDuringWorldVisit": true,
+    "sameHeroAndCamera": true,
+    "activeCameras": 1,
+    "activeListeners": 1,
+    "activeOnFootMotors": 1,
+    "unexpectedRespawns": 0,
+    "ObstacleStops": 4,
+    "totalFlightDistance": 397.205444,
+    "aircraftTransformTeleportedByTest": false,
+    "virtualKeyboardOutbound": true,
+    "virtualGamepadReturn": true,
+    "interiorReturnDoorApproachPlacedByTest": true,
+    "stages": [
+      {
+        "stage": "outbound",
+        "passed": true,
+        "distance": 197.956924,
+        "position": "(3.30, 0.03, 183.10)",
+        "landedAt": "Asteroide 01",
+        "grounded": true
+      },
+      {
+        "stage": "world visit",
+        "passed": true,
+        "exteriorHidden": true,
+        "planePoseRetained": true,
+        "grounded": true
+      },
+      {
+        "stage": "return",
+        "passed": true,
+        "totalDistance": 397.205444,
+        "position": "(24.40, 0.25, 4.61)",
+        "landedAt": "Lua-base",
+        "grounded": true
+      }
+    ]
+  },
+  "utc": "2026-10-16T14:05:07.4998002Z"
+}

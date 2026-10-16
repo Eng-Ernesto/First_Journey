@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "command": "command run_script",
+  "data": {
+    "command": "run_script",
+    "parameters": {
+      "file": "AgentScripts/AutomationReadinessTest.cs",
+      "entry": "AutomationReadinessTest.FramesAdvance"
+    },
+    "result": {
+      "diagnostics": [],
+      "compileMs": 285,
+      "executeMs": 4041,
+      "assemblyName": "PipelineRunScript_AutomationReadinessTest_9b3443a1aabe4de3b13ef2184834eefc",
+      "success": false,
+      "error": "Runtime Error",
+      "errorDetails": "Exception: FJ-011: Play frames/session did not advance; first=474, last=474, runInBackground=False\n  at AutomationReadinessTest.FramesAdvance () [0x0006c] in C:\\Ernesto\\unity\\First_Journey\\AgentScripts\\AutomationReadinessTest.cs:13 \r\n  at Unity.Pipeline.Editor.Commands.Scripts.RunScriptCommand.RunEphemeral (System.String file, System.String entry, Newtonsoft.Json.Linq.JArray args, System.String[] references, System.String[] defines, System.Boolean pdb, System.Boolean dryRun, System.Int32 timeoutMs, System.Diagnostics.Stopwatch total) [0x00492] in .\\Library\\PackageCache\\com.unity.pipeline@62c08c808737\\Editor\\Commands\\Scripts\\RunScriptCommand.cs:252 "
+    },
+    "target": {
+      "host": "127.0.0.1",
+      "port": 7801,
+      "projectPath": "C:\\Ernesto\\unity\\First_Journey"
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

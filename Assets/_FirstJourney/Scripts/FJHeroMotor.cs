@@ -11,6 +11,7 @@ namespace FirstJourney
         public Camera movementCamera;
         public float walkSpeed=1.9f, runSpeed=3.8f, jumpHeight=1.1f, gravity=-16f;
         public Vector3 spawnPosition;
+        public float fallResetHeight=-6f;
         public bool showControls=true;
         public bool Grounded { get; private set; }
         public float VerticalSpeed { get; private set; }
@@ -91,7 +92,7 @@ namespace FirstJourney
             animator.SetFloat(SpeedId,moved.magnitude/Mathf.Max(.001f,dt),.12f,dt);
             animator.SetFloat(VerticalId,VerticalSpeed);
             animator.SetBool(GroundId,Grounded);
-            if(transform.position.y < -6) ResetToSpawn();
+            if(transform.position.y < fallResetHeight) ResetToSpawn();
         }
         bool CheckGround()
         {
